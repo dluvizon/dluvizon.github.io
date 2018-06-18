@@ -1,0 +1,12 @@
+@ARTICLE{Luvizon_ITS_2016,
+  author={D. C. Luvizon and B. T. Nassu and R. Minetto},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  title={A Video-Based System for Vehicle Speed Measurement in Urban Roadways},
+  year={2017},
+  volume={18},
+  number={6},
+  pages={1393-1404},
+  doi={10.1109/TITS.2016.2606369},
+  ISSN={1524-9050},
+  month={June},
+}
