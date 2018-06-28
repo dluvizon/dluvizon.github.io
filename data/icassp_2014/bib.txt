@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Luvizon_ICASSP_2014,
+  author={D. C. Luvizon and B. T. Nassu and R. Minetto},
+  booktitle={2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title={Vehicle speed estimation by license plate detection and tracking},
+  year={2014},
+  pages={6563-6567},
+  doi={10.1109/ICASSP.2014.6854869},
+  ISSN={1520-6149},
+}
