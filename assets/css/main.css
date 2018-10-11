@@ -56,6 +56,11 @@ body {
   box-sizing: border-box;
 }
 
+highlight {
+  font-weight: bold;
+  color: #cc3300;
+}
+
 /* Containers */
 
 .container {
