@@ -1,0 +1,10 @@
+@article{LUVIZON201915,
+title = "Human pose regression by combining indirect part detection and contextual information",
+author = "Diogo C. Luvizon and Hedi Tabia and David Picard",
+journal = "Computers \& Graphics",
+volume = "85",
+pages = "15 - 22",
+year = "2019",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2019.09.002",
+}

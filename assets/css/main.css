@@ -2466,7 +2466,7 @@ input[type="button"]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background-color: #090a05;
+  background-color: #343434;
   background-attachment: scroll, fixed;
   background-image: url("images/overlay.png"), url("../../images/bg.jpg");
   background-position: top left, top left;
