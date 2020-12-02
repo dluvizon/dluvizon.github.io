@@ -1,0 +1,12 @@
+@INPROCEEDINGS{Pinto_ICIP_2020,
+  author={A. {Pinto} and M. A. {Córdova} and L. G. L. {Decker} and J. L. {Flores-Campana} and M. R. {Souza} and A. A. {dos Santos} and J. S. {Conceição} and H. F. {Gagliardi} and D. C. {Luvizon} and R. d. S. {Torres} and H. {Pedrini}},
+  booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1621-1625},
+  keywords={Estimation;Three-dimensional displays;Image segmentation;Motion segmentation;Task analysis;Visualization;Stereo vision;Parallax Motion Effect;Instance Segmentation;Depth Estimation;Inpainting;Deep Learning},
+  doi={10.1109/ICIP40778.2020.9191168},
+  ISSN={2381-8549},
+  month={Oct},}

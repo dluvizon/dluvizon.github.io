@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 372.0796 362.70814"
+   viewBox="0 0 744.09448 362.70814"
    height="102.3643mm"
-   width="105.00913mm"
-   sodipodi:docname="pic.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   width="210mm"
+   sodipodi:docname="cvpr2018.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,18 +24,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
      id="namedview234"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.1893044"
-     inkscape:cx="202.19041"
-     inkscape:cy="154.86956"
-     inkscape:window-x="67"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="212.09438"
+     inkscape:cy="61.571176"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
@@ -381,7 +381,7 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(-60.440942,-140.9845)">
+     transform="matrix(0.95844853,0,0,0.95844853,136.01505,-127.63028)">
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4136"

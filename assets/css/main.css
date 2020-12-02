@@ -2468,7 +2468,7 @@ input[type="button"]:disabled,
   justify-content: space-between;
   background-color: #343434;
   background-attachment: scroll, fixed;
-  background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+  /*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
   background-position: top left, top left;
   background-repeat: repeat, no-repeat;
   background-size: auto, auto 100%;
@@ -2839,6 +2839,31 @@ body.is-touch .poptrox-popup .closer {
   opacity: 1.0 !important;
 }
 
+p.justified {
+  /*max-width: 66.66%;*/
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h3.justified {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.showpopup {
+  border: 2px solid #fff;
+  transition: 0s
+  transition-delay: 0s;
+}
+.showpopup:hover {
+  background-color:#e0e0e0;
+  transition-delay: 0s;
+}
+
+ul.news  {
+  list-style: square inside url("images/news.png");
+}
+
 /* XLarge */
 
 @media screen and (max-width: 1800px) {
@@ -2935,7 +2960,7 @@ body.is-touch .poptrox-popup .closer {
   #footer {
     background-attachment: scroll;
     background-color: #1f1815;
-    background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+    /*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
     background-position: top left,						bottom center;
     background-repeat: repeat,							no-repeat;
     background-size: auto,							cover;
