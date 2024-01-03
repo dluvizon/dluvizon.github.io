@@ -1553,7 +1553,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 }
 
 body, input, select, textarea {
-  color: #a2a2a2;
+  color: #7c7c7c;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 16pt;
   font-weight: 400;
@@ -1577,7 +1577,7 @@ a:hover {
 }
 
 strong, b {
-  color: #787878;
+  color: #4d4d4d;
   font-weight: 400;
 }
 
@@ -1590,7 +1590,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #787878;
+  color: #4d4d4d;
   font-weight: 400;
   line-height: 1em;
   margin: 0 0 1em 0;
@@ -1739,7 +1739,7 @@ form {
 }
 
 label {
-  color: #787878;
+  color: #4d4d4d;
   display: block;
   font-size: 0.9em;
   font-weight: 400;
@@ -1843,7 +1843,7 @@ input[type="radio"] {
 input[type="checkbox"] + label,
 input[type="radio"] + label {
   text-decoration: none;
-  color: #a2a2a2;
+  color: #7c7c7c;
   cursor: pointer;
   display: inline-block;
   font-size: 1em;
@@ -1881,8 +1881,8 @@ input[type="radio"] + label:before {
 
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-  background: #787878;
-  border-color: #787878;
+  background: #4d4d4d;
+  border-color: #4d4d4d;
   color: #fff;
   content: '\f00c';
 }
@@ -2261,7 +2261,7 @@ table td {
 }
 
 table th {
-  color: #787878;
+  color: #4d4d4d;
   font-size: 0.9em;
   font-weight: 400;
   padding: 0 0.75em 0.75em 0.75em;
@@ -2319,7 +2319,7 @@ input[type="button"],
   background-color: transparent;
   border-radius: 0.15em;
   border: solid 1px #7f7f7f;
-  color: #787878 !important;
+  color: #4d4d4d !important;
   cursor: pointer;
   display: inline-block;
   font-weight: 600;
